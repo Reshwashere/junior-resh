@@ -1,0 +1,88 @@
+{
+    "bot": {
+        "token": "OTU4NjM5MDc5MjUwMDg3OTQ2.YkQQNw.C7h8VRUpBa94Sdniq5mALNkJjMM",
+        "owner": "957643395952672829",
+        "prefix": ".",
+        "BotStatus": "Reshin Kölesi",
+        "BotFooter": "Resh was here",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "958038933109887043",
+            "log": "958038933642575893",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "958038933109887042",
+            "roles": "958038933080510512",
+            "log": "958038933642575893",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "958038933109887041",
+            "roles": "958038933080510511",
+            "log": "958038933642575893",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "958038933109887041",
+            "log": "958038933642575893"
+        },
+        "transport": {
+            "staff": "958038933109887040"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "958038933642575893",
+        "rollog": "958038933642575893",
+        "seslog": "958038933642575893"
+    },
+    "roles": {
+        "vip": "958038933093097519",
+        "sponsor": "958038933093097520",
+        "müzisyen": "958038933093097512",
+        "team": "958038933093097521"
+    },
+    "channels": {
+        "chat": "958038934171050028",
+        "voicechannel": "958038933642575897",
+        "welcomechannel": "958038933642575896",
+        "rules": "958038933927776367"
+    },
+    "registration": {
+        "unregistered": "958038933093097516",
+        "man": ["958038933093097517"],
+        "woman": ["958038933093097518"],
+        "yetkilialim": "958038933147631621",
+        "staff": "958038933109887039",
+        "enaltyetkilirolü": "958038933109887045",
+        "GuilDTag": "$",
+        "TagSymbol": "•",
+        "autonickname": "$ İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "958038933080510512",
+        "susoeciosnickname": "Şüpheli Hesap",
+        "oneman": "958038933093097517",
+        "onewoman": "958038933093097518",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "958038933080510504",
+        "GuilDName": "Athanasia",
+        "GuildOwnerRole": ["957643395952672829"]
+    },
+    "emojis": {
+        "tada": ":yum:",
+        "yes": ":yum:",
+        "no": ":yum:"
+
+    }
+} 
